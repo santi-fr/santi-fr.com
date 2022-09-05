@@ -5,3 +5,5 @@ node_modules/**
 *.pack
 node_modules/**/*.pack
 **/node_modules
+node_modules/.cache/.eslintcache
+*.json
