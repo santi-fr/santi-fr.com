@@ -1,2 +1,7 @@
-
 *.old
+node_modules/.cache/default-development/*
+node_modules/**
+.DS_Store
+*.pack
+node_modules/**/*.pack
+**/node_modules
